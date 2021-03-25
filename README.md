@@ -1,3 +1,3 @@
 # My First Webpage
 
- Welcome!  [Code Institute] (http://codeinstitute.net)
+ Welcome!  [Code Institute](http://codeinstitute.net)
